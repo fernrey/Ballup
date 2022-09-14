@@ -1,5 +1,6 @@
 .navHeader {
     width: 100%;
+    margin-top: 25vh;
 }
 
 .navbar {
@@ -16,11 +17,12 @@
 .site-title{
     text-decoration: none;
     color: black;
-    font-size: 28px;
+    font-size: 32px;
 }
 
 .links {
     list-style: none;
+    font-size: 24px;
     
 }
 
