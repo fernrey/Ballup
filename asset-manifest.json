@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ballup/static/css/main.cb8b5e81.css",
+    "main.js": "/Ballup/static/js/main.cdefd420.js",
+    "static/media/IMG_9111.jpg": "/Ballup/static/media/IMG_9111.42ce4b57cbda1555941f.jpg",
+    "static/media/IMG_9375.jpg": "/Ballup/static/media/IMG_9375.4dd9fd71acbc8b078e5a.jpg",
+    "static/media/IMG_1312.jpg": "/Ballup/static/media/IMG_1312.346dfc73db5549b32be1.jpg",
+    "static/media/IMG_1112.jpg": "/Ballup/static/media/IMG_1112.8ecab4fd73d6c8eb2789.jpg",
+    "index.html": "/Ballup/index.html",
+    "main.cb8b5e81.css.map": "/Ballup/static/css/main.cb8b5e81.css.map",
+    "main.cdefd420.js.map": "/Ballup/static/js/main.cdefd420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb8b5e81.css",
+    "static/js/main.cdefd420.js"
+  ]
+}
