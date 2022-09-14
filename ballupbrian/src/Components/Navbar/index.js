@@ -5,7 +5,7 @@ function Navbar() {
     return (
         <header className="navHeader">
             <nav className="navbar">
-                <Link to="/" className="site-title">BallupBrian</Link>
+                <Link to="/" className="site-title">BALLUPBRIAN</Link>
                 <ul className="innerNav">
                     <li className="links">
                         <Link to="/Favorites">
