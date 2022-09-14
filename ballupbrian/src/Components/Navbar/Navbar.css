@@ -1,0 +1,32 @@
+.navHeader {
+    width: 100%;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+
+.innerNav {
+    text-decoration: none;
+    display: flex;
+}
+.site-title{
+    text-decoration: none;
+    color: black;
+    font-size: 28px;
+}
+
+.links {
+    list-style: none;
+    
+}
+
+.links a {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    justify-content: space-evenly;
+}
