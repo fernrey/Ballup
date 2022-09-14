@@ -1,0 +1,26 @@
+.Porfolio-container { 
+    width: 100%;
+    text-align: center;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.main-container .inner-Container {
+    width: 50%;
+    margin:  0 5px;
+    text-align: center;
+    animation: FadeIn 5s;
+}
+
+.portfolio-img {
+    width: 300px;
+    border-radius: 100%;
+}
+
+@keyframes FadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}

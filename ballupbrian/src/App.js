@@ -1,12 +1,11 @@
 import './App.css';
 import Navbar from './Components/Navbar';
-import Event from './Components/Event';
 import Contact from './Components/Contact';
 import Home from './Components/Home';
+import Portfolio from './Components/Porfolio';
+import Favorites from './Components/Favorites';
 
 import { Routes, Route } from "react-router-dom";
-
-
 
 function App() {
   return (
@@ -14,8 +13,9 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />}></Route>
-        <Route path="/events" element={<Event />} />
+        <Route path="/Favorites" element={<Favorites />}></Route>
         <Route path="/Contact" element={<Contact />} />
+        <Route path="/Portfolio" element={<Portfolio />} />
       </Routes>
     </div>
   );

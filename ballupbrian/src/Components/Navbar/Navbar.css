@@ -1,6 +1,5 @@
 .navHeader {
     width: 100%;
-    margin-top: 25vh;
 }
 
 .navbar {
@@ -8,27 +7,47 @@
     justify-content: space-around;
     text-align: center;
     align-items: center;
+    margin: 10px;
 }
 
 .innerNav {
     text-decoration: none;
     display: flex;
+    margin-left: auto;
 }
 .site-title{
     text-decoration: none;
-    color: black;
+    color: #aaa;
     font-size: 32px;
+    border: solid transparent;
+    transition-duration: .2s;
+    font-family: Helvetica;
+}
+
+.site-title:hover {
+    color: #000;
+    border-bottom: solid;
 }
 
 .links {
     list-style: none;
     font-size: 24px;
-    
 }
 
 .links a {
     text-decoration: none;
-    color: black;
+    color: #aaa;
     margin: 10px;
     justify-content: space-evenly;
+    transition-duration: .2s;
+    border: solid transparent;
+}
+
+.links a:hover {
+    color: #000;
+    border-bottom: solid;
+}
+
+.left-container {
+    margin: 0 30px;
 }

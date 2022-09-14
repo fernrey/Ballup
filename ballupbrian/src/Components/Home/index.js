@@ -10,7 +10,6 @@ function Home() {
 
     return (
         <div className="home-container">
-            <h2>Current</h2>
             <div className="image-container">
                 {
                     images.map((image) => (

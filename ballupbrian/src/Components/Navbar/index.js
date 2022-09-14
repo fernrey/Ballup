@@ -5,14 +5,13 @@ function Navbar() {
     return (
         <header className="navHeader">
             <nav className="navbar">
-                <Link to="/" className="site-title">BALLUPBRIAN</Link>
+                <section className="left-container">
+                    <Link to="/" className="site-title">BALLUPBRIAN</Link>
+                </section>
                 <ul className="innerNav">
                     <li className="links">
                         <Link to="/Favorites">
                             Favorites
-                        </Link>
-                        <Link to="/Events" >
-                            Events
                         </Link>
                         <Link to="/Portfolio">
                             Porfolio
