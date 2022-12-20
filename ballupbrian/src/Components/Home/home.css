@@ -10,9 +10,19 @@
 }
 .image-card {
     display: flex;
+    align-items: center;
 }
 .image {
     width: 400px;
     height: 550px;
+}
+
+.socials {
+    height: 30px;
+    margin: 0 5px;
+}
+
+.socials.ig { 
+    height: 30px;
 }
 

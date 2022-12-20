@@ -16,19 +16,31 @@
 }
 .site-title{
     text-decoration: none;
-    color: black;
+    color: #aaa;
     font-size: 32px;
+    border: solid transparent;
+    transition-duration: .1s;
+}
+.site-title:Hover {
+    border-bottom: solid;
+    color: black;
 }
 
 .links {
     list-style: none;
     font-size: 24px;
-    
 }
 
 .links a {
     text-decoration: none;
-    color: black;
+    color: #aaa;
     margin: 10px;
     justify-content: space-evenly;
+    border: solid transparent;
+    transition-duration: .1s;
+}
+
+.links a:Hover {
+    border-bottom: solid;
+    color: black;
 }
