@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/ballup/static/css/main.119eb324.css",
-    "main.js": "/ballup/static/js/main.2b61c426.js",
-    "static/media/IMG_9111.jpg": "/ballup/static/media/IMG_9111.42ce4b57cbda1555941f.jpg",
-    "static/media/IMG_9375.jpg": "/ballup/static/media/IMG_9375.4dd9fd71acbc8b078e5a.jpg",
-    "static/media/IMG_1312.jpg": "/ballup/static/media/IMG_1312.346dfc73db5549b32be1.jpg",
-    "static/media/IMG_1112.jpg": "/ballup/static/media/IMG_1112.8ecab4fd73d6c8eb2789.jpg",
-    "index.html": "/ballup/index.html",
-    "main.119eb324.css.map": "/ballup/static/css/main.119eb324.css.map",
-    "main.2b61c426.js.map": "/ballup/static/js/main.2b61c426.js.map"
+    "main.css": "/ballupbrian/static/css/main.4ebd6e95.css",
+    "main.js": "/ballupbrian/static/js/main.7bbf43a3.js",
+    "static/media/IMG_9111.jpg": "/ballupbrian/static/media/IMG_9111.42ce4b57cbda1555941f.jpg",
+    "static/media/IMG_9375.jpg": "/ballupbrian/static/media/IMG_9375.4dd9fd71acbc8b078e5a.jpg",
+    "static/media/IMG_1312.jpg": "/ballupbrian/static/media/IMG_1312.346dfc73db5549b32be1.jpg",
+    "static/media/IMG_1112.jpg": "/ballupbrian/static/media/IMG_1112.8ecab4fd73d6c8eb2789.jpg",
+    "static/media/instagram.png": "/ballupbrian/static/media/instagram.68114f7934a131905ac3.png",
+    "static/media/linkedln.png": "/ballupbrian/static/media/linkedln.350571fe041ca60cbcb7.png",
+    "index.html": "/ballupbrian/index.html",
+    "main.4ebd6e95.css.map": "/ballupbrian/static/css/main.4ebd6e95.css.map",
+    "main.7bbf43a3.js.map": "/ballupbrian/static/js/main.7bbf43a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.119eb324.css",
-    "static/js/main.2b61c426.js"
+    "static/css/main.4ebd6e95.css",
+    "static/js/main.7bbf43a3.js"
   ]
 }
